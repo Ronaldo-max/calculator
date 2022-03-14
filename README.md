@@ -2,7 +2,7 @@
 
 ## About
 
-### You'll need Node.js installed on your computer in order to build this app.
+### This is a simple calculator project
 
 <img src="layout.png">
 
